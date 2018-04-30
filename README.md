@@ -1,5 +1,4 @@
 # hkgos-project-list
-HKGOS project list
 
 HKGOS Project:
 1. immutable blockchain news database
