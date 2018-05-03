@@ -3,6 +3,7 @@
 
 HKGOS Project:
 1. immutable blockchain news database
+    - 用 blockchain 實現不可變的新聞庫，以作抵抗政治性修改。
     - python
     - blockchain
     - mongodb
@@ -10,10 +11,12 @@ HKGOS Project:
     - tensorflow
     - NLP
 2. local ca cert checker
+    - 用 blockchain 去檢查本地的 CA (Certificate authority) 有沒有被置換，以提高系統既安全性。
     - blockchain
     - c++ / java
     - mongodb / mysql
 3. AI Moral Lib
+    - AI 道德 library，輸入現實情況，然後 AI 會以人類道德標準去做決定。
     - python
     - ai
     - tensorflow
