@@ -20,7 +20,7 @@ HKGOS Project:
     - python
     - ai
     - tensorflow
-4. Open Data
+4. [Hong Kong Open Data](https://github.com/hkgos/hong-kong-open-data)
     - 收集香港 open data 並組成合集，提供簡單說明或 sample。
     - json
     - web crawler
@@ -31,7 +31,7 @@ HKGOS Project:
     - vue.js
     - node.js
     - nginx
-6. 聯登
+6. [聯登](https://github.com/hkgos/hkug)
     - 將高登及連登同時收錄在一個 forum 觀看。
     - web crawler
     - react native
